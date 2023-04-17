@@ -1,4 +1,4 @@
-DIDR - Decentralized Identity and Document Notarization Platform
+#DIDR - Decentralized Identity and Document Notarization Platform
 DIDR is a decentralized identity and document notarization platform built on the Algorand blockchain. It leverages the security and scalability of Algorand to provide a tamper-proof and trustless system for managing digital identities and notarizing important documents.
 
 Overview
